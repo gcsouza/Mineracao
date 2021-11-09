@@ -1,16 +1,11 @@
-shooter: atirador, assasino, matador. Maybe the shooter left something behind.
-raised: criado, levantado, elevado, aumentado, para levantar algo para uma posição mais alta. He was raised in Manhattan, Kansas.
-flushed: coroado, liberado, orgulhoso, vermelha, vermelho na cara. One drink and she gets flushed.
-amalgamation: fusão, junção, mistura, união, o processo no qual organizações separadas se unem para formar uma organização ou grupo maior. The amalgamation of wine and tango became inevitable.
-hamstrings: tendões, coxas, musculatura posterior da coxa. Work out your quadriceps, hamstrings, and glutes.
-suppose: suponho que, acho que, suponha que, supor. Now suppose you receive a letter from your father or your mother.
-plumbers: encanadores. We trained plumbers and created all kinds of jobs.
-amends: pazes, reparações, corrigir as coisas, fazer algo bom para mostrar que você está arrependido por algo que você fez. I made my amends with your brother.
-so to speak: por assim dizer, digamos assim, assim dizendo. War is good for business, so to speak.
-passed away: faleceu, morreu, morreram/Verbo: falecer. I'm sorry, he just passed away.
-harsher:
-slugged:
-manslaughter:
-nonetheless:
-wilderness:
-hike:
+harsher: mais dura, mais severo, mais rigoroso, mais forte, desagradável, rude, cruel ou mais severo do que o necessário. Africa was a lot harsher than I imagined.
+slugged: golpeou, bateu-me, esmurrou, deu um murro, golpeado. She almost slugged me when I stopped her from hiring a new attorney.
+manslaughter: homicídio involuntário, homicídio culposo, homicídio não premeditado. It could be reduced to manslaughter.
+nonetheless: no entanto, não obstante, todavia, contudo, mesmo assim, apesar disso. They are nonetheless close to reality.
+wilderness: deserto, selva, floresta, vida selvagem. So I became a creature of the wilderness.
+hike: caminhada, trilha, marcha, excursão/Verbo: andar, caminhar, passear. Follow your progress along the hike.
+pitchers: jarros, jarras, cervejas. It is you who are anxious to fill your pitchers.
+stoppage: paralisação, interrupção, greve, suspensão, um momento em que o trabalho é interrompido devido a um desacordo entre trabalhadores e empregadores. This was the first work stoppage in NBA history that resulted in missed games.
+gist: essência, ideia, síntese, resumo, as informações mais importantes sobre algo ou informações gerais sem detalhes. Give us the gist of your terrible idea.
+shut down: desligar, fechar, encerrar, desativar, interromper, encerramento, desligamento. The camera may shut down and you lose the data.
+excavate: escavar, cavar, desenterrar. Develop your own game strategies to excavate and construct.
