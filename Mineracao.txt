@@ -1,15 +1,21 @@
-venture: risco, empreendimento, aventura. Verbo: arriscar, aventurar. Captain, if I might venture a suggestion?
-chain: cadeia, corrente, rede. Verbo: encadear, prender, acorrentar./Um conjunto de coisas conectadas ou relacionadas. The chain store idea solves everything.
-easement: servidão, alívio, o direito legal de cruzar ou usar a terra de outra pessoa para um propósito específico. I have an easement with the previous owner of your property.
-granted: concedido, garantido, autorizado. All who enter here are granted my protection.
-Push it down: empurrar para baixo, empurra para baixo. Push it down until I tell you to stop!
-bottle it up: esquecer tudo, reprima, engarrafá-lo. I should bottle it up and only let it out when I can no longer control it.
-pretend it never: fingir que nunca, fingir que nada, fingir que isso nunca. Then we'll just pretend it never happened.
-parkway: estrada, avenida, alameda, uma estrada larga, geralmente dividida, com uma área de grama e árvores de ambos os lados e no meio. Aren't you glad you discovered the parkway?
-seat belt: cinto de segurança, cinto. Welcome, Please fasten seat belt.
-pulled out of: puxado para fora de/da, tiraram de, saiu da, tirou do. We're being pulled out of our normal position.
+menace: ameaça, perigo, algo que pode causar danos/Verbo: ameaçar. In a world with many dangers, this menace must be confronted.
+wheel: volante, roda, direção/Verbo: empurrar, rodar, girar. And you were wrenching the wheel left.
+scurry: correr, sair correndo, apressar-se, para se mover rapidamente, com passos pequenos e curtos. I thought I saw something scurry.
+darn: maldito, danado/Verbo: remendar. I ain't helping no darn cat.
+dared: ousou, ousado, se atreveu, ousaram, ser corajoso o suficiente para fazer algo difícil ou perigoso. Excuse me for having dared to come at your house.
+crushed: esmagado, triturado, destruído, pressionar algo com muita força para que se quebre ou que sua forma seja destruída. You need it to be fully crushed for this to work well.
+stretch marks: estrias, linhas finas ou marcas deixadas na pele de alguém depois de crescer rapidamente. Reduce the cellulite and stretch marks.
+screwed: ferrado, enganado, com muito problema ou dificuldade. If I'm screwed, so are you.
+wrench: chave inglesa, alicate, ferramenta/Verbo: torcer com força, arrancar. Maybe you should put the wrench down.
+flue: cano de chaminé, chaminé, um cano que leva de um incêndio ou aquecedor para o exterior de um edifício, levando fumaça, gases ou ar quente para longe. I haven't even cleaned the flue yet.
 
-menace: 
-wheel:(volante)
+kindling:
+roll it:
+scrunch:
+bobsledding:
+
+
+
+
 
 
