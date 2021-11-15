@@ -1,21 +1,14 @@
-menace: ameaça, perigo, algo que pode causar danos/Verbo: ameaçar. In a world with many dangers, this menace must be confronted.
-wheel: volante, roda, direção/Verbo: empurrar, rodar, girar. And you were wrenching the wheel left.
-scurry: correr, sair correndo, apressar-se, para se mover rapidamente, com passos pequenos e curtos. I thought I saw something scurry.
-darn: maldito, danado/Verbo: remendar. I ain't helping no darn cat.
-dared: ousou, ousado, se atreveu, ousaram, ser corajoso o suficiente para fazer algo difícil ou perigoso. Excuse me for having dared to come at your house.
-crushed: esmagado, triturado, destruído, pressionar algo com muita força para que se quebre ou que sua forma seja destruída. You need it to be fully crushed for this to work well.
-stretch marks: estrias, linhas finas ou marcas deixadas na pele de alguém depois de crescer rapidamente. Reduce the cellulite and stretch marks.
-screwed: ferrado, enganado, com muito problema ou dificuldade. If I'm screwed, so are you.
-wrench: chave inglesa, alicate, ferramenta/Verbo: torcer com força, arrancar. Maybe you should put the wrench down.
-flue: cano de chaminé, chaminé, um cano que leva de um incêndio ou aquecedor para o exterior de um edifício, levando fumaça, gases ou ar quente para longe. I haven't even cleaned the flue yet.
+kindling: gravetos, lenha, pequenos gravetos secos ou outros materiais usados para iniciar um incêndio. We found some dry kindling wood and got the fire started.
+roll it: rolar, enrolar. I'll roll it myself.
+scrunch: amassar, comprimir, para fazer o ruído produzido por coisas duras sendo pressionadas umas contra as outras, ou para pressionar coisas duras uma contra a outra para que façam um barulho. He would scrunch up my lunch bag every day.
+bobsledding: trenó. I'm the Jamaican bobsledding team.
+loose: solto, frouxo, livre, largo, folgado/Verbo: soltar, perder, afrouxar, liberar. I think your husband knocked something loose inside you.
+murmur: murmurar, sussurrar. And they begin to murmur.
+grabbed: agarrou, pegou, peguei, pegaram. The moment I opened the door she grabbed it and I saw her eyes.
+wander: perambular, passear, vaguear, vagar, andar devagar de forma relaxada ou sem nenhum propósito ou direção clara. We cannot wander the country and do nothing.
+stacks: estantes, pilhas, montes, uma pilha de coisas dispostas uma em cima da outra. You can remove items or stacks from your list of favorites again.
+burning: queimando, queimar, arder, ardente, em chamas, produzindo chamas. The river was burning everything in its path.
 
-kindling:
-roll it:
-scrunch:
-bobsledding:
-
-
-
-
-
-
+chaser:
+tossed:
+tricky:
