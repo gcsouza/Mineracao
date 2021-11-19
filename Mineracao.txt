@@ -1,22 +1,19 @@
-chaser: caçador, perseguidor, bebida fraca, uma pequena bebida alcoólica que é consumida após uma bebida alcoólica mais fraca. No, they didn't give me a chaser.
-tossed: jogado, atirado, lançado, joguei, jogou, atirou, jogar algo descuidadamente. And I tossed the ball to her.
-tricky: complicado, difícil,  se uma peça de trabalho ou problema é complicado, é difícil de lidar e requer atenção cuidadosa ou habilidade. I imagine it can be quite tricky.
-slut: vagabunda, vadia, prostituta, piranha, safada. Told everyone Paula was a slut.
-whore: puta, prostituta. I taught that whore everything she knows.
-worth: vale a pena, valor, importante, interessante, tendo um valor particular, especialmente em dinheiro. This museum really worth a visit. 
-nod off: cochilar, adormecer. Just tell him not to nod off.
-bedbugs: bichos, pulgas, percevejos, um inseto muito pequeno que vive principalmente em camas e se alimenta sugando o sangue das pessoas. Now I realized that there were already bedbugs in the apartment.
-retreat: retiro, afastar-se de um lugar ou pessoa para escapar de combates ou perigo/Verbo: recuar, retirar se retirar, retroceder, fugir. Each retreat is a spiritual event.
-treacly: pegajosa, melosa. But where are the treacly valentine cards for polyamorous relationships?
+badass: durão, valentão, malvado, uma pessoa má ou ligeiramente assustadora. He thinks it makes him look badass.
+coward: covarde, uma pessoa que não é corajosa e está muito ansiosa para evitar o perigo, a dificuldade ou a dor. Only a coward thinks violence is a solution.
+prowess: proeza, destreza, talento, capacidade, grande habilidade ou habilidade. His prowess is not to be underestimated.
+panties: calcinha, roupa de baixo. I left my favorite panties inside.
+dive: mergulho, imersão, salto/Verbo: mergulhar, aprofundar, submergir. All dive teams in the water.
+owed: devido, em dívida, devia, deve, deviam. We just wanted what was owed.
+digging: investigação, vasculhar, cavar, cavando, procurar, escavação. Which is why I started digging.
+flattered: lisonjeado, honrado, elogiado, honra. She was quite flattered and accepted.
+blackmail: chantagem, extorsão, chantagista/Verbo: chantagear. Every time I run into you, you blackmail me.
+threatened: ameaçado, ameaçou, ameaçaram, ameaçava, em perigo ou com probabilidade de deixar de existir. Our territory is not being threatened, brother.
 
-
-badass:
-coward:
-prowess:
-panties:
-dive:
-owed:
-digging:
+liar:
+stalker:
+addiction:
+disease:
+relying:
 
 
 
