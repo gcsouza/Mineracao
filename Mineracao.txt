@@ -1,19 +1,28 @@
-badass: durão, valentão, malvado, uma pessoa má ou ligeiramente assustadora. He thinks it makes him look badass.
-coward: covarde, uma pessoa que não é corajosa e está muito ansiosa para evitar o perigo, a dificuldade ou a dor. Only a coward thinks violence is a solution.
-prowess: proeza, destreza, talento, capacidade, grande habilidade ou habilidade. His prowess is not to be underestimated.
-panties: calcinha, roupa de baixo. I left my favorite panties inside.
-dive: mergulho, imersão, salto/Verbo: mergulhar, aprofundar, submergir. All dive teams in the water.
-owed: devido, em dívida, devia, deve, deviam. We just wanted what was owed.
-digging: investigação, vasculhar, cavar, cavando, procurar, escavação. Which is why I started digging.
-flattered: lisonjeado, honrado, elogiado, honra. She was quite flattered and accepted.
-blackmail: chantagem, extorsão, chantagista/Verbo: chantagear. Every time I run into you, you blackmail me.
-threatened: ameaçado, ameaçou, ameaçaram, ameaçava, em perigo ou com probabilidade de deixar de existir. Our territory is not being threatened, brother.
+liar: mentiroso, mentira. He accused me of being a liar.
+stalker: perseguidor, assediador, tarado, maníaco. If possible, show people a photograph of your stalker.
+addiction: vício, dependência. Now I can see this addiction in others.
+disease: doença, enfermidade. Dishonesty contributes to disease and dependency.
+relying: confiando, confiar, dependendo, depender ou confiar em alguém ou algo. It is possible that relying only on money, I would not have anything.
+dumping me: deixar-me, terminar comigo, acabar comigo, me largando. They'll probably say you're dumping me.
+dumb: burro, estúpido, idiota, tolo, surdo, incapaz de falar. I don't wanna play this dumb game.
+second-to-last: penúltimo, segundo ao último. They finished last and second-to-last in their divisions, respectively.
+horrifying: horripilante, horrível, terrível, assustador, aterrorizante. This revelation was horrifying for me.
+bullshit: merda, treta, besteira, bobagem, absurdo completo ou algo que não seja verdade/Verbo: mentir, enganar. Everybody knows those numbers are bullshit. 
 
-liar:
-stalker:
-addiction:
-disease:
-relying:
+overwhelming:
+lurid:
+lead(principal, protagonista, líder).
+cobbled(remendado):
+fit(adequado, apropriado, próprio):
+gambling:
+hoodie:
+stared:
+bare:
+i'll bite:
+bunny:
+
+
+
 
 
 
