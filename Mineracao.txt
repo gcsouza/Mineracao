@@ -1,25 +1,17 @@
-liar: mentiroso, mentira. He accused me of being a liar.
-stalker: perseguidor, assediador, tarado, maníaco. If possible, show people a photograph of your stalker.
-addiction: vício, dependência. Now I can see this addiction in others.
-disease: doença, enfermidade. Dishonesty contributes to disease and dependency.
-relying: confiando, confiar, dependendo, depender ou confiar em alguém ou algo. It is possible that relying only on money, I would not have anything.
-dumping me: deixar-me, terminar comigo, acabar comigo, me largando. They'll probably say you're dumping me.
-dumb: burro, estúpido, idiota, tolo, surdo, incapaz de falar. I don't wanna play this dumb game.
-second-to-last: penúltimo, segundo ao último. They finished last and second-to-last in their divisions, respectively.
-horrifying: horripilante, horrível, terrível, assustador, aterrorizante. This revelation was horrifying for me.
-bullshit: merda, treta, besteira, bobagem, absurdo completo ou algo que não seja verdade/Verbo: mentir, enganar. Everybody knows those numbers are bullshit. 
+overwhelming: esmagadora, esmagador, avassalador, grande, impressionante. The textual evidence for the references is overwhelming.
+lurid: sombria ,sinistra, sensacionalista, escandalosa, (especialmente de uma descrição) chocante porque envolve violência, sexo ou atividade imoral. Here life was always very live, and sometimes even lurid.
+lead: líder, protagonista, principal, para controlar um grupo de pessoas, um país ou uma situação/Verbo: guiar, levar, conduzir, liderar. Absolutely. I was lead test pilot.
+cobbled: pavimentada, paralelepípedo, remendado, calçada. Instead, the centre square is cobbled.
+fit: adequado, apropriado, próprio, em boa forma, ter o tamanho ou a forma certa para alguém ou algo. The gym invites guests to keep fit. 
+gambling: jogo de azar, jogo, jogatina. He also lost money through gambling.
+hoodie: capuz, casaco, moletom. He's got a pale blue hoodie.
+stared: encarou, olhou, olhar, encarou, olhei, olharam, ficou olhando. My brother stared at me in disbelief.
+bare: nu, desencapado, descoberto, despido/Verbo: descobrir, expor, mostrar, suportar. As it touched my bare leg.
+i'll bite: eu vou perguntar, vou entrar no jogo, estou interessado, eu vou morder. I'll bite them one by one.
 
-overwhelming:
-lurid:
-lead(principal, protagonista, líder).
-cobbled(remendado):
-fit(adequado, apropriado, próprio):
-gambling:
-hoodie:
-stared:
-bare:
-i'll bite:
 bunny:
+apron:
+rather:
 
 
 
