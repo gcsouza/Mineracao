@@ -1,25 +1,14 @@
-bunny: coelho, coelhinho, amorzinho. It's not a real bunny, sweetheart.
-apron: avental. She has nothing but an apron on in my kitchen.
-rather: bastante, pelo contrário, melhor dizer, em um leve grau/Verbo: preferir. Louis was rather rude about Tina.
-basement: porão, sótão, subsolo. I thought the basement looked cleaner.
-crutches: muletas, muleta. Get her a pair of crutches.
-jammed: emperrado, bloqueado, atolado, travado, congestionado, incapaz de mover-se. The door seems to be jammed.
-hedge: cobertura, cerca viva, proteção, arbustos/Verbo: cobrir, limitar, restringir, proteger de algo. They attacked him from behind a hedge.
-novice: novato, iniciante, principiante, aprendiz, calouro. He was no novice to the life of crime. 
-shaved: raspado, depilado, barbeado, raspou, raspei, para remover o cabelo do corpo, especialmente do rosto de um homem, cortando-o rente à pele com uma navalha. I shaved my armpits yesterday.
-flunked: reprovado, reprovou, reprovaram, ser reprovado em um exame ou curso de estudo. I should've flunked you when I had the chance.
+wholesalers: revendedores, atacadistas, distribuidores, alguém que compra e vende mercadorias em grandes quantidades para lojas e negócios. We have warned all shops, restaurants and wholesalers.
+hooking up: ficando, saindo, transando, juntar, para conhecer ou começar a trabalhar com outra pessoa ou outras pessoas. They were asking who she was hooking up with.
+boundaries: limites, fronteiras, barreiras, delimitação, uma linha real ou imaginária que marca a borda ou limite de algo. The girls are just testing our boundaries.
+underage: menor de idade. One of them was underage, another attacked a police officer.
+rape: violação, estupro/Verbo: violar, estuprar, violentar. Because rape is taboo here as elsewhere.
+victim: vítima. Good news is the victim survived.
+damnation: condenação, o ato de enviar alguém para o inferno ou o estado de estar no inferno. Do you fear damnation, John?
+sicko: doente, psicopata, tarado, maníaco, alguém que se comporta ou pensa de forma estranha e desagradável, muitas vezes sexual. One of these guys is a real sicko.
+goodwill: boa vontade, caridade, bondade, sentimentos amigáveis e úteis. Raúl is a very pragmatic person and a man of goodwill.
+lie down: deitar, descansar, repousar, ficar deitada. You can take your clothes off and lie down.
 
-wholesalers:
-hooking up:
-boundaries:
-underage:
-rape:
-victim:
-damnation:
-sicko:
-
-goodwill:
-lie down:
 truce:
 stockroom:
 scumbag:
