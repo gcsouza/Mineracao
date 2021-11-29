@@ -1,17 +1,20 @@
-wholesalers: revendedores, atacadistas, distribuidores, alguém que compra e vende mercadorias em grandes quantidades para lojas e negócios. We have warned all shops, restaurants and wholesalers.
-hooking up: ficando, saindo, transando, juntar, para conhecer ou começar a trabalhar com outra pessoa ou outras pessoas. They were asking who she was hooking up with.
-boundaries: limites, fronteiras, barreiras, delimitação, uma linha real ou imaginária que marca a borda ou limite de algo. The girls are just testing our boundaries.
-underage: menor de idade. One of them was underage, another attacked a police officer.
-rape: violação, estupro/Verbo: violar, estuprar, violentar. Because rape is taboo here as elsewhere.
-victim: vítima. Good news is the victim survived.
-damnation: condenação, o ato de enviar alguém para o inferno ou o estado de estar no inferno. Do you fear damnation, John?
-sicko: doente, psicopata, tarado, maníaco, alguém que se comporta ou pensa de forma estranha e desagradável, muitas vezes sexual. One of these guys is a real sicko.
-goodwill: boa vontade, caridade, bondade, sentimentos amigáveis e úteis. Raúl is a very pragmatic person and a man of goodwill.
-lie down: deitar, descansar, repousar, ficar deitada. You can take your clothes off and lie down.
+truce: trégua, paz, cessar-fogo, pazes. He was just trying to keep the truce.
+stockroom: almoxarifado, armazém, estoque. Take them to the stockroom and pray for him.
+scumbag: escória, vagabundo, canalha, safado, traste, uma pessoa muito desagradável que fez algo desonesto ou inaceitável. Look, the guy was a scumbag and a liar.
+whimsical: caprichoso, extravagante, incomum e estranho de uma forma que pode ser engraçada ou irritante. He's whimsical in our understanding.
+artsy: artístico. The hotel is so nice & artsy.
+flaws: imperfeições, falhas, defeitos, deficiências, errros. But their claims are full of flaws.
+pairings: pares, emparelhamentos, combinações, duas coisas, pessoas ou organizações que trabalham juntas. Maybe we should just revert to our original pairings.
+rooted: enraizado, arraigado, baseado, origem, tendo desenvolvido a partir de algo. New, because they are rooted in new attitudes.
+satiated: saciado, satisfeito, farto, saciou, saciar. You satiated my hunger and will not regret it.
+self-awareness: autoconsciência, autoconhecimento, auto percepção, bom conhecimento e julgamento sobre si mesmo. So this self-awareness is what you have to get.
 
-truce:
-stockroom:
-scumbag:
+drawn:
+conquering:
+stepping out:
+claims(afirmações):
+
+
 
 
 
