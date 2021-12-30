@@ -1,10 +1,14 @@
-freedom: liberdade, livre, libertação. Because billionaires love justice and freedom.
-pissed blood: mijei sangue, mijou sangue. One time... I pissed blood for three days.
-sheep: ovelha, carneiro. The sheep is always a sheep.
-harbors: portos. However, all these harbors came at a price.
-penance: penitência, castigo, um ato que mostra que você sente pena de algo que você fez, às vezes por motivos religiosos/Verbo: penitenciar. My penance for marrying away his last secretary.
-lizard: lagarto, lagartixa. If your lizard escapes, search for it immediately.
-humblest: mais humilde. The humblest duties are not to be ignored.
-duties: deveres, direitos, obrigações, impostos, funções, responsabilidades. But moral duties cannot be easily legislated.
-laid: deitado, colocado, posto, lançado. He were laid there for hours.
-messed up: confuso, perturbado, estraguei tudo, confusão, infeliz e emocionalmente confuso. I'm a little messed up, too.
+bashed in: esmagado, pancada na, golpe na, bater forte. We've got a guy whose head has been bashed in.
+retired: aposentado, retirado, recolhido, se aposentou, se retirou. Almost everybody older than 64 is retired.
+undercover: disfarçado, infiltrado, secreto, sob disfarce./Verbo: infiltrar. Chief wants you undercover for this.
+enforcement: aplicação, execução, cumprimento, fiscalização, policial, processo de fazer as pessoas obedecerem a uma lei ou regra.John Henry monitors all law enforcement channels.
+talons: garras, unhas. I think he might be missing a few talons.
+beak: bico, a parte dura e pontiaguda da boca de um pássaro. You have a really big beak.
+bloody: sangrento, ensanguentado/Verbo: sangrar. Mexico is experiencing a bloody decade.
+crowbar: pé de cabra, uma barra de ferro pesada com uma extremidade dobrada para levantar objetos pesados ou forçar abertura de coisas. We need a crowbar or something.
+sloppy: desleixado, descuidado, negligente, desajeitado. This is really sloppy compared to most others.
+swinging: balançando, oscilante, balançado, pendurado, vaivém, oscilação. I'll keep swinging until I got nothing left.
+headlines:
+breeds:
+
+
