@@ -1,14 +1,12 @@
-bashed in: esmagado, pancada na, golpe na, bater forte. We've got a guy whose head has been bashed in.
-retired: aposentado, retirado, recolhido, se aposentou, se retirou. Almost everybody older than 64 is retired.
-undercover: disfarçado, infiltrado, secreto, sob disfarce./Verbo: infiltrar. Chief wants you undercover for this.
-enforcement: aplicação, execução, cumprimento, fiscalização, policial, processo de fazer as pessoas obedecerem a uma lei ou regra.John Henry monitors all law enforcement channels.
-talons: garras, unhas. I think he might be missing a few talons.
-beak: bico, a parte dura e pontiaguda da boca de um pássaro. You have a really big beak.
-bloody: sangrento, ensanguentado/Verbo: sangrar. Mexico is experiencing a bloody decade.
-crowbar: pé de cabra, uma barra de ferro pesada com uma extremidade dobrada para levantar objetos pesados ou forçar abertura de coisas. We need a crowbar or something.
-sloppy: desleixado, descuidado, negligente, desajeitado. This is really sloppy compared to most others.
-swinging: balançando, oscilante, balançado, pendurado, vaivém, oscilação. I'll keep swinging until I got nothing left.
-headlines:
-breeds:
-
-
+headlines: manchetes, títulos, notícia, destaque, primeira página dos jornais. One last tip: Your headlines should be specific.
+breeds: raças, espécies, linhagens. They have a variety of breeds and varieties differences.
+rising: crescente, nascente, ascensão, subida, crescimento, um ato de oposição contra aqueles que estão no poder. However, debts are still rising everywhere.
+ressurect: ressuscitar, reviver, ressurgir. There's somebody I want to resurrect.
+morgue: necrotério, um edifício ou quarto de um hospital, etc., onde os cadáveres são mantidos. He signed for the body at the morgue.
+unattended: sem supervisão, sem vigilância, desacompanhado, não sendo vigiado ou cuidado por. Do not let them swim unattended.
+footage: filmagem, gravação, vídeo, cena. I needed help analyzing the footage.
+sniff: cheirar, farejar, fungar, cheirar algo inspirando ar pelo nariz. I'll sniff it and remember you.
+greets: cumprimenta, saúda, para dar as boas-vindas a alguém com palavras específicas ou uma ação específica. The cold air greets us with the door opening.
+shithole: buraco de merda, um lugar muito desagradável, especialmente um que é muito sujo ou pobre. I came to this shitehole to have some fun.
+armored:
+henchmen:
