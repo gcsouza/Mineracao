@@ -1,12 +1,10 @@
-headlines: manchetes, títulos, notícia, destaque, primeira página dos jornais. One last tip: Your headlines should be specific.
-breeds: raças, espécies, linhagens. They have a variety of breeds and varieties differences.
-rising: crescente, nascente, ascensão, subida, crescimento, um ato de oposição contra aqueles que estão no poder. However, debts are still rising everywhere.
-ressurect: ressuscitar, reviver, ressurgir. There's somebody I want to resurrect.
-morgue: necrotério, um edifício ou quarto de um hospital, etc., onde os cadáveres são mantidos. He signed for the body at the morgue.
-unattended: sem supervisão, sem vigilância, desacompanhado, não sendo vigiado ou cuidado por. Do not let them swim unattended.
-footage: filmagem, gravação, vídeo, cena. I needed help analyzing the footage.
-sniff: cheirar, farejar, fungar, cheirar algo inspirando ar pelo nariz. I'll sniff it and remember you.
-greets: cumprimenta, saúda, para dar as boas-vindas a alguém com palavras específicas ou uma ação específica. The cold air greets us with the door opening.
-shithole: buraco de merda, um lugar muito desagradável, especialmente um que é muito sujo ou pobre. I came to this shitehole to have some fun.
-armored:
-henchmen:
+armored: blindado, blindagem, armado, carros-fortes. We're armored and the glass is bulletproof.
+henchmen: capangas, lacaios, cúmplices. Actually, I was hoping to meet some of your henchmen.
+shrink: psiquiatra, psicólogo, terapeuta/Verbo: encolher, diminuir, reduzir. My shrink says I have control issues.
+strays: se desviar, abandonados, vagueia, vira-latas, vagabundos. You have not brought back the strays or searched for the lost.
+clowns: palhaços. Who are the clowns working here?
+swagger: arrogância, arrogante, bravata, altivez, ousadia/Verbo: ostentar, se vangloriar. Don't swagger if you're on top. 
+foster: adotivo, cuidar de uma criança, sem ser o pai legal da criança/Verbo: promover, fomentar, favorecer, estimular, incentivar. Now I am ready to take on my next foster dog.
+bouncing: quicando, pulando, saltando. I'm not bouncing at a club.
+scarecrow: espantalho, cabeça oca. But we did find a metal scarecrow... In the forest...
+betraying: traindo, trair, traição, não ser leal a seu país ou a uma pessoa. That didn't stop you from betraying me.
