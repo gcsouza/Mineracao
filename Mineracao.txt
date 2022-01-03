@@ -1,10 +1,14 @@
-wires: fios, cabos, arames, condutores, um pedaço de papel com uma mensagem enviada por telégrafo. He went ahead and he cut the wires for me.
-junk: sucata, lixo, porcaria, droga, velharia, ferro-velho, coisas que são consideradas sem uso ou valor, ou de baixa qualidade. That's your pile of junk.
-increase: aumentar, incrementar, reforçar, melhorar. You have two options to increase your maintenance level.
-masquerade: disfarçar, mascarar, fingir-se, farsa, máscara. I think this trial is a masquerade.
-newness: novidade, renovação. There is a sense of newness and joy.
-willingness: vontade, disposição, boa vontade, determinação, a qualidade de estar feliz em fazer algo, se necessário. Generosity is defined as the willingness to give.
-hunch: palpite, pressentimento, instinto, intuição, sensação/Verbo: curvar, inclinar-se. I just wanted your professional opinion about a hunch I got.
-surveillance: vigilância, fiscalização, supervisão. She'll be under surveillance 24l7.
-mothballed: desativado, desligado, obsoleto. I know people who think that NASA was mothballed.
-bait: isca, armadilha, chamariz/Verbo: iscar, atrair, fisgar, seduzir. They sell bait reservation only on weekends.
+annoy: irritar, incomodar, aborrecer, chatear, para deixar alguém com raiva. This behavior can annoy and cause mom pain.
+noticeable: perceptível, visível, notável, evidente, fácil de ver ou reconhecer. More and more dangers become noticeable.
+enormous: enorme, grande, imenso, gigantesco, extremamente grande. I observed enormous traffic with thousands of people.
+overall: geral, global, total, em geral, como um todo. The overall impact on marketing costs can be major.
+narrow: estreito, restrito, limitado, pequeno/Verbo: estreitar, reduzir, limitar. Your mind is not confined to one narrow little channel.
+mob: máfia, multidão, grupo, bando, gangue. They're bad because the mob does the hiring.
+overstating: exagerar, exagero, exagerando. I understand you're upset, but I think you're overstating things, too.
+shipment: carga, carregamento, expedição, remessa, embarque, lote. Plan your shipment to avoid delays.
+coolant: refrigerante, refrigeração, um líquido preparado usado para impedir que uma máquina fique muito quente enquanto está operando. The coolant level is too low.
+squirt: esguichar, jorrar, molhar, espremer. I can't squirt stuff in my eyeball.
+mobsters:
+dozens:
+
+
