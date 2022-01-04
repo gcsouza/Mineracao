@@ -1,14 +1,11 @@
-annoy: irritar, incomodar, aborrecer, chatear, para deixar alguém com raiva. This behavior can annoy and cause mom pain.
-noticeable: perceptível, visível, notável, evidente, fácil de ver ou reconhecer. More and more dangers become noticeable.
-enormous: enorme, grande, imenso, gigantesco, extremamente grande. I observed enormous traffic with thousands of people.
-overall: geral, global, total, em geral, como um todo. The overall impact on marketing costs can be major.
-narrow: estreito, restrito, limitado, pequeno/Verbo: estreitar, reduzir, limitar. Your mind is not confined to one narrow little channel.
-mob: máfia, multidão, grupo, bando, gangue. They're bad because the mob does the hiring.
-overstating: exagerar, exagero, exagerando. I understand you're upset, but I think you're overstating things, too.
-shipment: carga, carregamento, expedição, remessa, embarque, lote. Plan your shipment to avoid delays.
-coolant: refrigerante, refrigeração, um líquido preparado usado para impedir que uma máquina fique muito quente enquanto está operando. The coolant level is too low.
-squirt: esguichar, jorrar, molhar, espremer. I can't squirt stuff in my eyeball.
-mobsters:
-dozens:
-
-
+mobsters: mafiosos, gangsters. Except it wasn't just mobsters.
+dozens: dezenas, dúzias, vários, doze. That could make you lose viewers by the dozens.
+blasphemy: blasfêmia, blasfemar. What you're doing is blasphemy.
+imbalance: desequilíbrio, desiqualdade, desbalanço. Earth will not allow that imbalance to continue.
+implied: implícito, se algo estiver implícito, entende-se que é verdadeiro ou existe, embora não seja declarado diretamente. I feel relief after her implied support.
+transmigration: transmigração, migração, o ato de passar para outro corpo após a morte. So this is their new life after transmigration.
+jeopardized: comprometido, prejudicado, ameaçado. I'm just sorry if I jeopardized a patient.
+council: conselho. They think the church council sent me.
+willfully: deliberadamente, intencionalmente, voluntariamente, de uma forma intencional ou determinada a fazer o que quiser. You have willfully ignored my request.
+oversee: supervisionar, fiscalizar, vigiar, controlar, acompanhar. Some of my men will remain to oversee progress.
+endeavor:
