@@ -1,12 +1,10 @@
-bearings: orientar, rumo, orientação, uma compreensão das direções e posições que ajudam você a saber onde você está. This will give you time to get your bearings.
-landlord: senhorio, proprietário, locador, dono, locatário. My landlord is selling my house.
-shudder: estremecer, tremer, ter medo. It still makes people shudder in fear.
-amended: alterado, modificado, corrigido, para alterar as palavras de um texto, especialmente uma lei ou um documento legal. That definition should therefore be amended.
-grandson: neto, o filho de um seu filho ou filha. They must sometimes see their grandson.
-whipped: chicoteado, açoitado. But you said I was whipped.
-convey: transmitir, comunicar, expressar, manifestar. That is the message we constantly convey.
-breeze: brisa, ar, vento sopro/Verbo: entrar suavemente, alardear. I love to watch your hair blowing in the breeze.
-sacred: sagrado, santo, consagrado. Marriage proposal's a sacred thing.
-heart-pounding: coração batendo, coração a bater. I could hear my heart pounding.
-earth-shattering:
-
+earth-shattering: devastadora, arrasadora, catastrófico, chocante, extremamente importante ou muito surpreendente. None of these solutions is particularly earth-shattering.
+mourn: lamentar, chorar, prantear, velar, lamentar-se. You know, it makes us mourn her loss.
+tilted: inclinado, inclinou. Well, your office is tilted to the right a bit.
+grumpy: mal-humorado, rabugento, irritado, resmungão, ranzinza. He's just grumpy because Joe starts school tomorrow.
+raising: criar, aumentar, levantar, criação, elevação. And imagine raising a kid in this city.
+jawing: conversa fiada, tagarelar. What, so you can keep jawing while more people die?
+burden: fardo, carga, ônus, peso, responsabilidade, uma carga pesada que você carrega. You have to release your burden.
+unaided: sem ajuda, sem auxílio, desamparado. You cannot get there from here unaided.
+revenue: receita, rendimento, faturamento, renda, lucro, a receita que um governo ou empresa recebe regularmente. Reduce your workload and increase revenue.
+compelled: obrigado, compelido, forçado, coagido, ter que fazer algo, porque você é forçado ou sente que é necessário. I'm not compelled financially to work.
